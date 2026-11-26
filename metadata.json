@@ -1,0 +1,6 @@
+{
+  "name": "Adverse Event Signal Exploration",
+  "description": "Beginner-friendly healthcare analytics task workspace for exploring de-identified adverse-event reports, calculating reporting frequencies, and documenting non-causal safety signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
